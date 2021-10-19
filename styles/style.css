@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-image: url("https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg?w=1155&h=1528");
+  background-size: 100%;
+  background-attachment: fixed;
+}
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5% 4%;
+  background-color: rgb(255, 90, 61);
+}
+#navbar a {
+  color: white;
+  text-decoration: none;
+}
+#content {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+#content h3 {
+  padding-left: 30px;
+  padding-right: 10px;
+}
+#content h3 a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#container {
+  /* border: 1px solid black; */
+}
+
+#container > div {
+  background-color: white;
+  width: 60%;
+  margin:40px auto;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 2%;
+}
+
+#container > div > img {
+  width: 30%;
+}
+
+#inp_div {
+  width: 80%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+#qwery {
+  width: 60%;
+  height: 50px;
+  padding: 10px;
+  font-size: 18px;
+  outline: none;
+}
+
+#searchBtn {
+  width: 10%;
+  font-size: 18px;
+  background-color: rgb(255, 90, 61);
+  color: white;
+border: none;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Latest</title>
+    <link rel="icon" href="./img/kisspng-catering-food-computer-icons-logo-event-management-catering-5abf487cd18447.7546290415224853728582 (1).png">
+    <link rel="stylesheet" href="./styles/style.css">
+  </head>
+  <body>
+   <div id="nav"></div>
+  
+   <div id="container" ></div> 
+  </body>
+</html>
+
+<script type="module">
+
+import navbar from "./components/navbar.js" ;
+
+let navbar_div = document.getElementById("nav");
+nav.innerHTML = navbar() ;
+
+
+import {getData , append} from "./scripts/data.js";
+
+
+let container = document.getElementById("container");
+
+async function showResult() {
+
+ let res = await getData(`https://www.themealdb.com/api/json/v1/1/search.php?f=d`);
+
+ console.log(res.meals);
+
+ append(res.meals,container);
+
+}
+showResult()
+
+</script>
+
+
+
