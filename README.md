@@ -3,7 +3,7 @@
 It's a food recipe website, user can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.  
 
 ## This website is hosted on Netlify
-Link to visit site:- 
+Link to visit site:- myfoodapp21.netlify.app
 
 ## Glimpse of the project
 <img src="https://imgdb.in/j9ZO.jpg" width="100%" height="auto" />
