@@ -1,6 +1,6 @@
 # Food-app
 
-Its a food recipe website , usear can search recipes of varios dishes and also see the latest recipes as well as recipe of the day.  
+Its a food recipe website , usear can search recipes of various dishes and also see the latest recipes as well as recipe of the day.  
 
 ## This website is hosted on Netlify
 Link to visit site:- 
