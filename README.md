@@ -6,8 +6,11 @@ It's a food recipe app, users can search recipes of various dishes and also see 
 Link to visit site:- https://myfoodapp21.netlify.app/
 
 ## Glimpse of the project
-<img src="https://imgdb.in/j9ZO.jpg" width="100%" height="auto" />
-<img src="https://imgdb.in/j9ZV.jpg" width="100%" height="auto" />
+### Search Recipe Page:
+<img src="https://github.com/Shivam2101s/images/blob/main/food%20app(1).jpg?raw=true" width="100%" height="auto" />
+
+### Recipe of the Day:
+<img src="https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true width="100%" height="auto" />
 
 ## Technology used
 
