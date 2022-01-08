@@ -10,7 +10,7 @@ Link to visit site:- https://myfoodapp21.netlify.app/
 <img src="https://github.com/Shivam2101s/images/blob/main/food%20app(1).jpg?raw=true" width="100%" height="auto" />
 
 ### Recipe of the Day:
-<img src="https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true width="100%" height="auto" />
+<img src="https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true" width="100%" height="auto" />
 
 ## Technology used
 
